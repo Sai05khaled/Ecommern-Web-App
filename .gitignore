@@ -1,0 +1,5 @@
+node_modules/
+*.log
+*.pack
+ecommerc_NODE/journal/
+
